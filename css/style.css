@@ -56,39 +56,32 @@ table {
   box-sizing: border-box;
 }
 
-.container {
+.preview {
   float: left;
-  margin: 1% 0;
-  width: 450;
+  width: 450px;
   height: 250px;
+  padding: 20px 25px;*
+  background-position: center;
+  background-size: cover;
 }
 
 .baku {
   background-image: url(../images/baku.jpg);
   background-color: #000;
-  width: 100%;
-  height: 100%;
 }
 
  .london {
   background-image: url(../images/london.png);
-  height: 100%;
-  width: 100%;
   background-color: #000;
-  background-repeat: no-repeat;
 }
 
  .madrid {
   background-image: url(../images/madrid.jpg);
-  height: 100%;
-  width: 100%;
   background-color: #000;
 }
 
 .rome {
    background-image: url(../images/rome.jpg);
-   height: 100%;
-   width: 100%;
    background-color: #000;
 }
 
@@ -97,10 +90,11 @@ table {
   body {
     background-color: #dadada;
   }
-}
+
   h1 {
     color: #000;
     font-size: 3em;
+  }
 }
 
 /* two-column design */
