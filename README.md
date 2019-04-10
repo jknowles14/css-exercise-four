@@ -1,2 +1,2 @@
 # css-exercise-four
-Exercise focused on the usage of media queries
+This is an exercise focused on the usage of media queries. 
